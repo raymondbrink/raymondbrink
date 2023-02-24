@@ -1,5 +1,13 @@
 ### Hi there, I'm Raymond Brink 👋
 
+My focus is and has always been on developer productivity and code quality. In my quest for better code, the open source community has given me so much over the past decade, I decided it was time to give something back. 
+
+Since I find them very practicle and I recently ported them to .NET 6 and Entity Framework Core 6, I felt it was the right time to share my [Clean Architecture libraries](https://github.com/raymondbrink/CleanArchitecture) with the rest of the world. These libraries try to simplify the implementation of Clean Architecture patterns and practices for new .NET projects. These libraries have already been under active development for a few years and applied in real life production applications many times.
+
+Please check them out and feel free to share your thoughts and ideas by contacting me or submitting a pull request. If you like any of my projects, please let me know too! 
+
+Happy coding :-)
+
 <!--
 **raymondbrink/raymondbrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
